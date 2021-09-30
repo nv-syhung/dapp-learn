@@ -1,0 +1,19 @@
+{
+  "name": "dapp-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nv-syhung/dapp-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nv-syhung/dapp-learn/issues"
+  },
+  "homepage": "https://github.com/nv-syhung/dapp-learn#readme"
+}
